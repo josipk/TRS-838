@@ -1,5 +1,5 @@
 # TRS-838
-TRS-838 Terminal
+TRS-838 Terminal on TRS-703 computer (https://hr.wikipedia.org/wiki/TRS%E2%80%93703)
 
 ## Technical data:
 Screen size: 12" (30 cm)
